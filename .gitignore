@@ -1,6 +1,7 @@
-*/Build
-*/Binaries
-*/DerivedDataCache
-*/Intermediate
-*/Saved
-BuildingEscape/Content/StarterContent/
+# Unreal generated files
+Build
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Content/StarterContent/
